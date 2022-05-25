@@ -1,0 +1,14 @@
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_3\bin\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_3.exe
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_3\bin\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_3.deps.json
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_3\bin\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_3.runtimeconfig.json
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_3\bin\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_3.runtimeconfig.dev.json
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_3\bin\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_3.dll
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_3\bin\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_3.pdb
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_3\obj\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_3.csproj.AssemblyReference.cache
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_3\obj\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_3\obj\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_3.AssemblyInfoInputs.cache
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_3\obj\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_3.AssemblyInfo.cs
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_3\obj\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_3.csproj.CoreCompileInputs.cache
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_3\obj\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_3.dll
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_3\obj\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_3.pdb
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_3\obj\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_3.genruntimeconfig.cache
