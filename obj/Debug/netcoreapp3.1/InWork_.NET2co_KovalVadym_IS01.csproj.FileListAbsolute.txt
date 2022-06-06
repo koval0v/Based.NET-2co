@@ -1,0 +1,14 @@
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\InWork_.NET2co_KovalVadym_IS01\bin\Debug\netcoreapp3.1\InWork_.NET2co_KovalVadym_IS01.exe
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\InWork_.NET2co_KovalVadym_IS01\bin\Debug\netcoreapp3.1\InWork_.NET2co_KovalVadym_IS01.deps.json
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\InWork_.NET2co_KovalVadym_IS01\bin\Debug\netcoreapp3.1\InWork_.NET2co_KovalVadym_IS01.runtimeconfig.json
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\InWork_.NET2co_KovalVadym_IS01\bin\Debug\netcoreapp3.1\InWork_.NET2co_KovalVadym_IS01.runtimeconfig.dev.json
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\InWork_.NET2co_KovalVadym_IS01\bin\Debug\netcoreapp3.1\InWork_.NET2co_KovalVadym_IS01.dll
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\InWork_.NET2co_KovalVadym_IS01\bin\Debug\netcoreapp3.1\InWork_.NET2co_KovalVadym_IS01.pdb
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\InWork_.NET2co_KovalVadym_IS01\obj\Debug\netcoreapp3.1\InWork_.NET2co_KovalVadym_IS01.csproj.AssemblyReference.cache
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\InWork_.NET2co_KovalVadym_IS01\obj\Debug\netcoreapp3.1\InWork_.NET2co_KovalVadym_IS01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\InWork_.NET2co_KovalVadym_IS01\obj\Debug\netcoreapp3.1\InWork_.NET2co_KovalVadym_IS01.AssemblyInfoInputs.cache
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\InWork_.NET2co_KovalVadym_IS01\obj\Debug\netcoreapp3.1\InWork_.NET2co_KovalVadym_IS01.AssemblyInfo.cs
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\InWork_.NET2co_KovalVadym_IS01\obj\Debug\netcoreapp3.1\InWork_.NET2co_KovalVadym_IS01.csproj.CoreCompileInputs.cache
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\InWork_.NET2co_KovalVadym_IS01\obj\Debug\netcoreapp3.1\InWork_.NET2co_KovalVadym_IS01.dll
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\InWork_.NET2co_KovalVadym_IS01\obj\Debug\netcoreapp3.1\InWork_.NET2co_KovalVadym_IS01.pdb
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\InWork_.NET2co_KovalVadym_IS01\obj\Debug\netcoreapp3.1\InWork_.NET2co_KovalVadym_IS01.genruntimeconfig.cache
