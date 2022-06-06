@@ -1,0 +1,14 @@
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_4\SWDevNet_KovalVadym_IS01_4\bin\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_4.exe
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_4\SWDevNet_KovalVadym_IS01_4\bin\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_4.deps.json
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_4\SWDevNet_KovalVadym_IS01_4\bin\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_4.runtimeconfig.json
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_4\SWDevNet_KovalVadym_IS01_4\bin\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_4.runtimeconfig.dev.json
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_4\SWDevNet_KovalVadym_IS01_4\bin\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_4.dll
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_4\SWDevNet_KovalVadym_IS01_4\bin\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_4.pdb
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_4\SWDevNet_KovalVadym_IS01_4\obj\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_4.csproj.AssemblyReference.cache
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_4\SWDevNet_KovalVadym_IS01_4\obj\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_4\SWDevNet_KovalVadym_IS01_4\obj\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_4.AssemblyInfoInputs.cache
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_4\SWDevNet_KovalVadym_IS01_4\obj\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_4.AssemblyInfo.cs
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_4\SWDevNet_KovalVadym_IS01_4\obj\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_4.csproj.CoreCompileInputs.cache
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_4\SWDevNet_KovalVadym_IS01_4\obj\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_4.dll
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_4\SWDevNet_KovalVadym_IS01_4\obj\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_4.pdb
+C:\Users\UserPc\Desktop\2course\2sem\BasedSoftWDev.NET\SWDevNet_KovalVadym_IS01_4\SWDevNet_KovalVadym_IS01_4\obj\Debug\netcoreapp3.1\SWDevNet_KovalVadym_IS01_4.genruntimeconfig.cache
